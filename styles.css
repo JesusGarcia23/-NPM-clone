@@ -192,5 +192,6 @@ height: 397.7px;
 }
 
 .lastlink a{
+  text-decoration: none;
   color: rgb(208, 74, 73);
 }
