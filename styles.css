@@ -167,6 +167,7 @@ height: 397.7px;
 .second-align {
   height: 500px;
   width: 230px;
+  color:rgb(135, 145, 156);
   text-align: center;
   padding-top: 10px;
   float: left;
@@ -176,6 +177,7 @@ height: 397.7px;
 .third-align {
   height: 500px;
   align-content: center;
+  color:rgb(135, 145, 156);
   width: 230px;
   text-align: center;
   padding-top: 10px;
